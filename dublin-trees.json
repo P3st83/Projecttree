@@ -1,0 +1,1219 @@
+{
+    "short": {
+        "drive": {
+            "abbey": {
+                "abbey drive": 0
+            },
+            "coolrua": {
+                "coolrua drive": 10
+            },
+            "coultry": {
+                "coultry drive": 5
+            },
+            "drumcliffe": {
+                "drumcliffe drive": 0
+            },
+            "park": {
+                "grove": {
+                    "grove park drive": 10
+                }
+            },
+            "mcauley": {
+                "mcauley drive": 10
+            },
+            "merlyn": {
+                "merlyn drive": 5
+            },
+            "merylin": {
+                "merylin drive": 5
+            },
+            "rathvale": {
+                "rathvale drive": 10
+            },
+            "rathvilly": {
+                "rathvilly drive": 10
+            },
+            "marys": {
+                "st": {
+                    "st marys drive": 10
+                }
+            },
+            "mobhi": {
+                "st": {
+                    "st mobhi drive": 10
+                }
+            },
+            "brendens": {
+                "st": {
+                    "st brendens drive": 0
+                }
+            },
+            "thornville": {
+                "thornville drive": 10
+            }
+        },
+        "college": {
+            "albert": {
+                "albert college": 0
+            }
+        },
+        "road": {
+            "byrne": {
+                "alfie": {
+                    "alfie byrne road": 5
+                }
+            },
+            "saints": {
+                "all": {
+                    "all saints road": 10
+                }
+            },
+            "anner": {
+                "anner road": 10
+            },
+            "armagh": {
+                "armagh road": 10
+            },
+            "ballyfermot": {
+                "ballyfermot road": 10
+            },
+            "barry": {
+                "barry road": 10
+            },
+            "brookvale": {
+                "brookvale road": 0
+            },
+            "brookwood": {
+                "brookwood road": 10
+            },
+            "bulfin": {
+                "bulfin road": 10
+            },
+            "bunting": {
+                "bunting road": 10
+            },
+            "calderwood": {
+                "calderwood road": 10
+            },
+            "caledon": {
+                "caledon road": 0
+            },
+            "canal": {
+                "canal road": 5
+            },
+            "carleton": {
+                "carleton road": 10
+            },
+            "castleforbes": {
+                "castleforbes road": 10
+            },
+            "cedarwood": {
+                "cedarwood road": 5
+            },
+            "mangan": {
+                "clarence": {
+                    "clarence mangan road": 10
+                }
+            },
+            "clonard": {
+                "clonard road": 10
+            },
+            "clonfert": {
+                "clonfert road": 10
+            },
+            "cooley": {
+                "cooley road": 10
+            },
+            "cowper": {
+                "cowper road": 10
+            },
+            "crumlin": {
+                "crumlin road": 10
+            },
+            "curlew": {
+                "curlew road": 10
+            },
+            "delville": {
+                "delville road": 10
+            },
+            "donaghmede": {
+                "donaghmede road": 10
+            },
+            "donore": {
+                "donore road": 7
+            },
+            "drumalee": {
+                "drumalee road": 10
+            },
+            "drumcliffe": {
+                "drumcliffe road": 5
+            },
+            "durrow": {
+                "durrow road": 0
+            },
+            "ennafort": {
+                "ennafort road": 10
+            },
+            "fassaugh": {
+                "fassaugh road": 5
+            },
+            "fergus": {
+                "fergus road": 10
+            },
+            "finglas": {
+                "finglas road": 10,
+                "old": {
+                    "old finglas road": 10
+                }
+            },
+            "galmoy": {
+                "galmoy road": 5
+            },
+            "glencloy": {
+                "glencloy road": 5
+            },
+            "park": {
+                "grove": {
+                    "grove park road": 10
+                }
+            },
+            "grove": {
+                "grove road": 10
+            },
+            "kilbarrack": {
+                "kilbarrack road": 10
+            },
+            "kildare": {
+                "kildare road": 10
+            },
+            "kildonan": {
+                "kildonan road": 5
+            },
+            "kylemore": {
+                "kylemore road": 10
+            },
+            "landen": {
+                "landen road": 5
+            },
+            "lein": {
+                "lein road": 5
+            },
+            "leinster": {
+                "leinster road": 5
+            },
+            "loreto": {
+                "loreto road": 10
+            },
+            "malahide": {
+                "malahide road": 10
+            },
+            "marlborough": {
+                "marlborough road": 10
+            },
+            "mckelvey": {
+                "mckelvey road": 10
+            },
+            "mellowes": {
+                "mellowes road": 5
+            },
+            "mellows": {
+                "mellows road": 10
+            },
+            "merlyn": {
+                "merlyn road": 0
+            },
+            "merton": {
+                "merton road": 5
+            },
+            "merylin": {
+                "merylin road": 10
+            },
+            "mourne": {
+                "mourne road": 10
+            },
+            "nephim": {
+                "nephim road": 5
+            },
+            "nephin": {
+                "nephin road": 10
+            },
+            "ocarolan": {
+                "ocarolan road": 10
+            },
+            "odonovan": {
+                "odonovan road": 10
+            },
+            "traynor": {
+                "oscar": {
+                    "oscar traynor road": 10
+                }
+            },
+            "quarry": {
+                "quarry road": 0
+            },
+            "rafters": {
+                "rafters road": 0
+            },
+            "ranelagh": {
+                "ranelagh road": 10
+            },
+            "rathdown": {
+                "rathdown road": 10
+            },
+            "ribh": {
+                "ribh road": 5
+            },
+            "ringsend": {
+                "ringsend road": 10
+            },
+            "teresas": {
+                "st": {
+                    "st teresas road": 10
+                }
+            },
+            "ennis": {
+                "seamus": {
+                    "seamus ennis road": 10
+                }
+            },
+            "slievemore": {
+                "slievemore road": 10
+            },
+            "agnes": {
+                "st": {
+                    "st agnes road": 5
+                }
+            },
+            "albans": {
+                "st": {
+                    "st albans road": 10
+                }
+            },
+            "summerhill": {
+                "summerhill road": 5
+            },
+            "sundrive": {
+                "sundrive road": 10
+            },
+            "stiles": {
+                "the": {
+                    "the stiles road": 5
+                }
+            },
+            "moore": {
+                "thomas": {
+                    "thomas moore road": 10
+                }
+            },
+            "tonlegee": {
+                "tonlegee road": 10
+            },
+            "tritonville": {
+                "tritonville road": 0
+            },
+            "waterloo": {
+                "waterloo road": 10
+            },
+            "wellington": {
+                "wellington road": 10
+            },
+            "springdale": {
+                "springdale road": 10
+            }
+        },
+        "street": {
+            "amiens": {
+                "amiens street": 10
+            },
+            "aughrim": {
+                "aughrim street": 10
+            },
+            "baggot": {
+                "baggot street": 10
+            },
+            "bishop": {
+                "bishop street": 10
+            },
+            "bridgefoot": {
+                "bridgefoot street": 5
+            },
+            "buckingham": {
+                "buckingham street": 10
+            },
+            "chatham": {
+                "chatham street": 5
+            },
+            "church": {
+                "church street": 10
+            },
+            "clarendon": {
+                "clarendon street": 10
+            },
+            "college": {
+                "college street": 5
+            },
+            "cork": {
+                "cork street": 10
+            },
+            "gardiner": {
+                "gardiner street": 5
+            },
+            "hamilton": {
+                "hamilton street": 10
+            },
+            "hammond": {
+                "hammond street": 10
+            },
+            "high": {
+                "high street": 10
+            },
+            "joyce": {
+                "james": {
+                    "james joyce street": 10
+                }
+            },
+            "kirwan": {
+                "kirwan street": 5
+            },
+            "manor": {
+                "manor street": 10
+            },
+            "wapping": {
+                "new": {
+                    "new wapping street": 10
+                }
+            },
+            "oconnell": {
+                "oconnell street": 5
+            },
+            "parnell": {
+                "parnell street": 5
+            },
+            "pearce": {
+                "pearce street": 10
+            },
+            "reginald": {
+                "reginald street": 10
+            },
+            "dermott": {
+                "mac": {
+                    "sean": {
+                        "sean mac dermott street": 10
+                    }
+                }
+            },
+            "mcdermott": {
+                "sean": {
+                    "sean mcdermott street": 10
+                }
+            },
+            "thomas": {
+                "thomas street": 10
+            },
+            "york": {
+                "york street": 10
+            }
+        },
+        "park": {
+            "annesley": {
+                "annesley park": 10
+            },
+            "ayrfield": {
+                "ayrfield park": 10
+            },
+            "carndonagh": {
+                "carndonagh park": 10
+            },
+            "coolatree": {
+                "coolatree park": 10
+            },
+            "coolrua": {
+                "coolrua park": 10
+            },
+            "darndale": {
+                "darndale park": 0
+            },
+            "dartry": {
+                "dartry park": 10
+            },
+            "drumalee": {
+                "drumalee park": 10
+            },
+            "dunree": {
+                "dunree park": 10
+            },
+            "finglas": {
+                "finglas park": 10
+            },
+            "glenaulin": {
+                "glenaulin park": 10
+            },
+            "glendhu": {
+                "glendhu park": 10
+            },
+            "kempton": {
+                "kempton park": 10
+            },
+            "kildonan": {
+                "kildonan park": 10
+            },
+            "kylemore": {
+                "kylemore park": 10
+            },
+            "mcauley": {
+                "mcauley park": 10
+            },
+            "mellowes": {
+                "mellowes park": 10
+            },
+            "bernard": {
+                "mount": {
+                    "mount bernard park": 10
+                }
+            },
+            "rathvale": {
+                "rathvale park": 10
+            },
+            "richview": {
+                "richview park": 0
+            },
+            "agnes": {
+                "st": {
+                    "st agnes park": 10
+                }
+            },
+            "church": {
+                "audoens": {
+                    "st": {
+                        "st audoens church park": 10
+                    }
+                }
+            },
+            "the": {
+                "the park": 10
+            },
+            "ventry": {
+                "ventry park": 0
+            },
+            "tone": {
+                "wolf": {
+                    "wolf tone park": 5
+                }
+            },
+            "mccauley": {
+                "mccauley park": 10
+            },
+            "lein": {
+                "lein park": 10
+            },
+            "markievicz": {
+                "markievicz park": 5
+            }
+        },
+        "hill": {
+            "arbour": {
+                "arbour hill": 5
+            },
+            "constitution": {
+                "constitution hill": 10
+            }
+        },
+        "ashcroft": {
+            "ashcroft": 10
+        },
+        "rise": {
+            "ashington": {
+                "ashington rise": 10
+            }
+        },
+        "quay": {
+            "aston": {
+                "aston quay": 10
+            },
+            "burgh": {
+                "burgh quay": 10
+            },
+            "city": {
+                "city quay": 5
+            },
+            "georges": {
+                "georges quay": 10
+            },
+            "north": {
+                "north quay": 10
+            },
+            "victoria": {
+                "victoria quay": 10
+            },
+            "tone": {
+                "wilfe": {
+                    "wilfe tone quay": 10
+                }
+            },
+            "wood": {
+                "wood quay": 10
+            }
+        },
+        "avenue": {
+            "ayrfield": {
+                "ayrfield avenue": 10
+            },
+            "ballyhoy": {
+                "ballyhoy avenue": 0
+            },
+            "cappagh": {
+                "cappagh avenue": 5
+            },
+            "celestine": {
+                "celestine avenue": 0
+            },
+            "clancy": {
+                "clancy avenue": 10
+            },
+            "droomeen": {
+                "droomeen avenue": 10
+            },
+            "drumalee": {
+                "drumalee avenue": 10
+            },
+            "fassaugh": {
+                "fassaugh avenue": 5
+            },
+            "faussagh": {
+                "faussagh avenue": 10
+            },
+            "fitzroy": {
+                "fitzroy avenue": 10
+            },
+            "glasnevin": {
+                "glasnevin avenue": 10
+            },
+            "greenville": {
+                "greenville avenue": 10
+            },
+            "grove": {
+                "grove avenue": 10
+            },
+            "park": {
+                "grove": {
+                    "grove park avenue": 5
+                },
+                "willow": {
+                    "willow park avenue": 10
+                }
+            },
+            "kinrara": {
+                "kinrara avenue": 10
+            },
+            "kinvara": {
+                "kinvara avenue": 10
+            },
+            "mckee": {
+                "mckee avenue": 5
+            },
+            "prospect": {
+                "mount": {
+                    "mount prospect avenue": 10
+                },
+                "prospect avenue": 7
+            },
+            "tallant": {
+                "mount": {
+                    "mount tallant avenue": 10
+                }
+            },
+            "northbrook": {
+                "northbrook avenue": 10
+            },
+            "traynor": {
+                "oscar": {
+                    "oscar traynor avenue": 10
+                }
+            },
+            "philipsburgh": {
+                "philipsburgh avenue": 10
+            },
+            "rathvale": {
+                "rathvale avenue": 10
+            },
+            "margarets": {
+                "st": {
+                    "st margarets avenue": 7
+                }
+            },
+            "lukes": {
+                "st": {
+                    "st lukes avenue": 10
+                }
+            },
+            "winton": {
+                "winton avenue": 5
+            },
+            "mccauley": {
+                "mccauley avenue": 5
+            }
+        },
+        "place": {
+            "ayrfield": {
+                "ayrfield place": 10
+            }
+        },
+        "walk": {
+            "bachelors": {
+                "bachelors walk": 10
+            },
+            "church": {
+                "church walk": 0
+            },
+            "view": {
+                "temple": {
+                    "temple view walk": 10
+                }
+            },
+            "thorndale": {
+                "thorndale walk": 10
+            }
+        },
+        "gardens": {
+            "park": {
+                "belton": {
+                    "belton park gardens": 10
+                },
+                "grace": {
+                    "grace park gardens": 10
+                },
+                "villa": {
+                    "villa park gardens": 5
+                }
+            },
+            "lein": {
+                "lein gardens": 10
+            }
+        },
+        "brookfield": {
+            "brookfield": 10
+        },
+        "crescent": {
+            "brookville": {
+                "brookville crescent": 5
+            },
+            "grattan": {
+                "grattan crescent": 10
+            },
+            "mellowes": {
+                "mellowes crescent": 10
+            },
+            "rathdown": {
+                "rathdown crescent": 0
+            }
+        },
+        "grove": {
+            "calderwood": {
+                "calderwood grove": 10
+            },
+            "drumalee": {
+                "drumalee grove": 10
+            },
+            "fairways": {
+                "fairways grove": 10
+            },
+            "abbey": {
+                "grange": {
+                    "grange abbey grove": 10
+                }
+            },
+            "park": {
+                "oak": {
+                    "oak park grove": 10
+                },
+                "willow": {
+                    "willow park grove": 10
+                }
+            }
+        },
+        "lower": {
+            "street": {
+                "camden": {
+                    "camden street lower": 10
+                },
+                "clanbrassal": {
+                    "clanbrassal street lower": 10
+                },
+                "kevin": {
+                    "kevin street lower": 10
+                },
+                "leeson": {
+                    "leeson street lower": 10
+                }
+            }
+        },
+        "green": {
+            "cappagh": {
+                "cappagh green": 5
+            },
+            "edenmore": {
+                "edenmore green": 5
+            },
+            "rectory": {
+                "rectory green": 10
+            },
+            "wellmount": {
+                "wellmount green": 5
+            }
+        },
+        "mews": {
+            "chancel": {
+                "chancel mews": 0
+            }
+        },
+        "terrace": {
+            "clarkes": {
+                "clarkes terrace": 10
+            },
+            "goldenbridge": {
+                "goldenbridge terrace": 10
+            },
+            "granite": {
+                "granite terrace": 10
+            },
+            "greenville": {
+                "greenville terrace": 10
+            },
+            "michaels": {
+                "st": {
+                    "st michaels terrace": 10
+                }
+            }
+        },
+        "lawn": {
+            "clonshaugh": {
+                "clonshaugh lawn": 10
+            },
+            "cremore": {
+                "cremore lawn": 10
+            }
+        },
+        "coolatr": {
+            "coolatr": 10
+        },
+        "barn": {
+            "dolphins": {
+                "dolphins barn": 10
+            }
+        },
+        "dowland": {
+            "dowland": 5
+        },
+        "court": {
+            "drumalee": {
+                "drumalee court": 10
+            },
+            "dunard": {
+                "dunard court": 10
+            },
+            "glasnevin": {
+                "glasnevin court": 10
+            },
+            "grosvenor": {
+                "grosvenor court": 5
+            },
+            "kincora": {
+                "kincora court": 0
+            },
+            "walnut": {
+                "walnut court": 5
+            }
+        },
+        "close": {
+            "mount": {
+                "elm": {
+                    "elm mount close": 10
+                }
+            }
+        },
+        "john": {
+            "st": {
+                "froxfield": {
+                    "froxfield st john": 5
+                }
+            }
+        },
+        "glenavy": {
+            "glenavy": 10
+        },
+        "square": {
+            "gray": {
+                "gray square": 10
+            },
+            "oscar": {
+                "oscar square": 10
+            },
+            "pearse": {
+                "pearse square": 10
+            },
+            "weavers": {
+                "weavers square": 10
+            }
+        },
+        "parade": {
+            "greenville": {
+                "greenville parade": 10
+            },
+            "mountjoy": {
+                "mountjoy parade": 5
+            }
+        },
+        "wood": {
+            "grove": {
+                "grove wood": 10
+            }
+        },
+        "lodge": {
+            "harcourt": {
+                "harcourt lodge": 10
+            }
+        },
+        "cottages": {
+            "herbert": {
+                "herbert cottages": 10
+            }
+        },
+        "heath": {
+            "kempton": {
+                "kempton heath": 10
+            }
+        },
+        "view": {
+            "kempton": {
+                "kempton view": 10
+            },
+            "park": {
+                "park view": 10
+            }
+        },
+        "lisle": {
+            "lisle ": 10
+        },
+        "drimnagh": {
+            "drive": {
+                "lissadell": {
+                    "lissadell drive drimnagh": 10
+                }
+            }
+        },
+        "meadowbank": {
+            "meadowbank": 10
+        },
+        "newmarket": {
+            "newmarket": 10
+        },
+        "wall": {
+            "north": {
+                "north wall": 10
+            }
+        },
+        "lane": {
+            "park": {
+                "park lane": 10
+            }
+        },
+        "harbour": {
+            "portobello": {
+                "portobello harbour": 10
+            }
+        },
+        "rathdow": {
+            "rathdow": 0
+        },
+        "rialto": {
+            "walk": {
+                "reuben": {
+                    "reuben walk rialto": 10
+                }
+            }
+        },
+        "abbey": {
+            "rothe": {
+                "rothe abbey": 10
+            }
+        },
+        "oaks": {
+            "seven": {
+                "seven oaks": 10
+            }
+        },
+        "plaza": {
+            "street": {
+                "store": {
+                    "store street plaza": 5
+                }
+            }
+        },
+        "meadows": {
+            "the": {
+                "the meadows": 10
+            }
+        },
+        "willows": {
+            "the": {
+                "the willows": 7
+            }
+        },
+        "island": {
+            "ushers": {
+                "ushers island": 10
+            }
+        },
+        "westpark": {
+            "westpark": 10
+        },
+        "river": {
+            "santry": {
+                "santry river": 10
+            }
+        },
+        "moyle": {
+            "the": {
+                "the moyle": 10
+            }
+        },
+        "clearwater": {
+            "clearwater": 10
+        }
+    },
+    "tall": {
+        "road": {
+            "adelaide": {
+                "adelaide road": 25
+            },
+            "beaumont": {
+                "beaumont road": 20
+            },
+            "cabra": {
+                "cabra road": 25
+            },
+            "cambridge": {
+                "cambridge road": 20
+            },
+            "carnlough": {
+                "carnlough road": 20
+            },
+            "clare": {
+                "clare road": 25
+            },
+            "clogher": {
+                "clogher road": 20
+            },
+            "clyde": {
+                "clyde road": 20
+            },
+            "donnybrook": {
+                "donnybrook road": 20
+            },
+            "drumcondra": {
+                "drumcondra road": 25
+            },
+            "glenarriff": {
+                "glenarriff road": 20
+            },
+            "glenbrook": {
+                "glenbrook road": 20
+            },
+            "glendhu": {
+                "glendhu road": 20
+            },
+            "haddington": {
+                "haddington road": 25
+            },
+            "inchicore": {
+                "inchicore road": 20
+            },
+            "infirmary": {
+                "infirmary road": 25
+            },
+            "infirmery": {
+                "infirmery road": 20
+            },
+            "iona": {
+                "iona road": 20
+            },
+            "circular": {
+                "north": {
+                    "north circular road": 25
+                },
+                "south": {
+                    "south circular road": 20
+                }
+            },
+            "orchard": {
+                "orchard road": 25
+            }
+        },
+        "green": {
+            "beresford": {
+                "beresford green": 20
+            },
+            "colege": {
+                "colege green": 20
+            },
+            "college": {
+                "college green": 20
+            },
+            "fairways": {
+                "fairways green": 25
+            }
+        },
+        "street": {
+            "alley": {
+                "bull": {
+                    "bull alley street": 20
+                }
+            },
+            "cuffe": {
+                "cuffe street": 20
+            },
+            "dawson": {
+                "dawson street": 20
+            },
+            "dolier": {
+                "dolier street": 20
+            },
+            "harrington": {
+                "harrington street": 20
+            },
+            "james": {
+                "james street": 20
+            },
+            "kildare": {
+                "kildare street": 20
+            },
+            "brown": {
+                "south": {
+                    "south brown street": 20
+                }
+            },
+            "synge": {
+                "synge street": 20
+            },
+            "westmoreland": {
+                "westmoreland street": 20
+            }
+        },
+        "park": {
+            "bushy": {
+                "bushy park": 20
+            },
+            "holyrood": {
+                "holyrood park": 20
+            },
+            "square": {
+                "merrion": {
+                    "merrion square park": 20
+                }
+            },
+            "orwell": {
+                "orwell park": 20
+            },
+            "palmerston": {
+                "palmerston park": 25
+            },
+            "patricks": {
+                "st": {
+                    "st patricks park": 20
+                }
+            },
+            "herbert": {
+                "yard": {
+                    "yard herbert park": 20
+                }
+            }
+        },
+        "charlemont": {
+            "charlemont": 20
+        },
+        "place": {
+            "christchurch": {
+                "christchurch place": 20
+            },
+            "foster": {
+                "foster place": 20
+            }
+        },
+        "court": {
+            "claremont": {
+                "claremont court": 20
+            }
+        },
+        "collinswood": {
+            "collinswood": 20
+        },
+        "avenue": {
+            "connolly": {
+                "connolly avenue": 20
+            },
+            "griffith": {
+                "griffith avenue": 20
+            }
+        },
+        "egling": {
+            "egling": 25
+        },
+        "square": {
+            "eglinton": {
+                "eglinton square": 20
+            }
+        },
+        "villas": {
+            "oremore": {
+                "oremore villas": 20
+            }
+        },
+        "rise": {
+            "walnut": {
+                "walnut rise": 20
+            }
+        },
+        "lower": {
+            "street": {
+                "liffey": {
+                    "liffey street lower": 25
+                }
+            }
+        },
+        "brown": {
+            "mount": {
+                "mount brown": 20
+            }
+        },
+        "gardens": {
+            "temple": {
+                "temple gardens": 20
+            }
+        },
+        "bramblings": {
+            "the": {
+                "the bramblings": 20
+            }
+        },
+        "parade": {
+            "torlogh": {
+                "torlogh parade": 20
+            }
+        },
+        "grove": {
+            "wasdale": {
+                "wasdale grove": 25
+            }
+        },
+        "mooring": {
+            "the": {
+                "the mooring": 20
+            }
+        },
+        "mart": {
+            "east": {
+                "east mart": 25
+            }
+        }
+    }
+}

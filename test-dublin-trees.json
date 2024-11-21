@@ -1,12 +1,24 @@
 {
     "short": {
-        "test_street": {
-            "short street": 0
+        "drive": {
+            "abbey": {
+                "abbey drive": 0
+            },
+            "coolrua": {
+                "coolrua drive": 10
+            }
         }
     },
     "tall": {
-        "test_avenue": {
-            "tall avenue": 20
+        "gardens": {
+            "temple": {
+                "temple gardens": 20
+            }
+        },
+        "street": {
+            "cork": {
+                "cork street": 10
+            }
         }
     }
 }
