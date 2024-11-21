@@ -1,0 +1,12 @@
+{
+    "short": {
+        "test_street": {
+            "short street": 0
+        }
+    },
+    "tall": {
+        "test_avenue": {
+            "tall avenue": 20
+        }
+    }
+}
