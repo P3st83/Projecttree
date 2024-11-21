@@ -8,12 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d129996-7291-4164-a443-5d8c45e9a167" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/analyze_tree_property.py" beforeDir="false" afterPath="$PROJECT_DIR$/analyze_tree_property.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-dublin-property.csv" beforeDir="false" afterPath="$PROJECT_DIR$/test-dublin-property.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-dublin-trees.json" beforeDir="false" afterPath="$PROJECT_DIR$/test-dublin-trees.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_analyze_tree_property.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_analyze_tree_property.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +42,7 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.fileTypes"
   }
